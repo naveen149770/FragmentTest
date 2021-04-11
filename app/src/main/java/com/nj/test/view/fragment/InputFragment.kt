@@ -35,6 +35,7 @@ class InputFragment : Fragment() {
         }
         uploadAction()
         print("Input fragment")
+        print("Input fragment")
     }
 
     fun uploadAction() {
